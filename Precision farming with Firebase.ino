@@ -6,8 +6,8 @@
 
 #define FIREBASE_HOST "destin-demo-default-rtdb.firebaseio.com"                          // the project name address from firebase id
 #define FIREBASE_AUTH "zK9YtUX7xvOwEatU2HnMWbIc2NnHXA49tFd5ld5Y"            // the secret key generated from firebase
-#define WIFI_SSID "leonard"                                             // input your home or public wifi name 
-#define WIFI_PASSWORD "Mabele2020*"                                    //password of wifi ssid
+#define WIFI_SSID "wifi-name"                                             // input your home or public wifi name 
+#define WIFI_PASSWORD "wifi-password"                                    //password of wifi ssid
 // Data wire is connected to digital pin 7 on the Arduino
 #define ONE_WIRE_BUS 2
 // Setup a oneWire instance to communicate with any OneWire device
